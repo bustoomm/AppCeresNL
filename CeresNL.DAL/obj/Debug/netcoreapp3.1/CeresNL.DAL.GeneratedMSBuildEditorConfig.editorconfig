@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = CeresNL.DAL
+build_property.ProjectDir = D:\.NET Core\AppCeresNL\CeresNL.DAL\

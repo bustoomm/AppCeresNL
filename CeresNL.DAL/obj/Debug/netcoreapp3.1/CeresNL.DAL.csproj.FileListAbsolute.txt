@@ -1,0 +1,10 @@
+D:\.NET Core\AppCeresNL\CeresNL.DAL\bin\Debug\netcoreapp3.1\CeresNL.DAL.deps.json
+D:\.NET Core\AppCeresNL\CeresNL.DAL\bin\Debug\netcoreapp3.1\CeresNL.DAL.dll
+D:\.NET Core\AppCeresNL\CeresNL.DAL\bin\Debug\netcoreapp3.1\CeresNL.DAL.pdb
+D:\.NET Core\AppCeresNL\CeresNL.DAL\obj\Debug\netcoreapp3.1\CeresNL.DAL.csproj.AssemblyReference.cache
+D:\.NET Core\AppCeresNL\CeresNL.DAL\obj\Debug\netcoreapp3.1\CeresNL.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Core\AppCeresNL\CeresNL.DAL\obj\Debug\netcoreapp3.1\CeresNL.DAL.AssemblyInfoInputs.cache
+D:\.NET Core\AppCeresNL\CeresNL.DAL\obj\Debug\netcoreapp3.1\CeresNL.DAL.AssemblyInfo.cs
+D:\.NET Core\AppCeresNL\CeresNL.DAL\obj\Debug\netcoreapp3.1\CeresNL.DAL.csproj.CoreCompileInputs.cache
+D:\.NET Core\AppCeresNL\CeresNL.DAL\obj\Debug\netcoreapp3.1\CeresNL.DAL.dll
+D:\.NET Core\AppCeresNL\CeresNL.DAL\obj\Debug\netcoreapp3.1\CeresNL.DAL.pdb

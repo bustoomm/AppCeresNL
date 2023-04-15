@@ -1,0 +1,15 @@
+D:\.NET Core\AppCeresNL\CeresNL.Repository\bin\Debug\net6.0\CeresNL.Core.deps.json
+D:\.NET Core\AppCeresNL\CeresNL.Repository\bin\Debug\net6.0\CeresNL.Core.dll
+D:\.NET Core\AppCeresNL\CeresNL.Repository\bin\Debug\net6.0\CeresNL.Core.pdb
+D:\.NET Core\AppCeresNL\CeresNL.Repository\bin\Debug\net6.0\CeresNL.DAL.dll
+D:\.NET Core\AppCeresNL\CeresNL.Repository\bin\Debug\net6.0\CeresNL.DAL.pdb
+D:\.NET Core\AppCeresNL\CeresNL.Repository\obj\Debug\net6.0\CeresNL.Core.csproj.AssemblyReference.cache
+D:\.NET Core\AppCeresNL\CeresNL.Repository\obj\Debug\net6.0\CeresNL.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Core\AppCeresNL\CeresNL.Repository\obj\Debug\net6.0\CeresNL.Core.AssemblyInfoInputs.cache
+D:\.NET Core\AppCeresNL\CeresNL.Repository\obj\Debug\net6.0\CeresNL.Core.AssemblyInfo.cs
+D:\.NET Core\AppCeresNL\CeresNL.Repository\obj\Debug\net6.0\CeresNL.Core.csproj.CoreCompileInputs.cache
+D:\.NET Core\AppCeresNL\CeresNL.Repository\obj\Debug\net6.0\CeresNL.Core.csproj.CopyComplete
+D:\.NET Core\AppCeresNL\CeresNL.Repository\obj\Debug\net6.0\CeresNL.Core.dll
+D:\.NET Core\AppCeresNL\CeresNL.Repository\obj\Debug\net6.0\refint\CeresNL.Core.dll
+D:\.NET Core\AppCeresNL\CeresNL.Repository\obj\Debug\net6.0\CeresNL.Core.pdb
+D:\.NET Core\AppCeresNL\CeresNL.Repository\obj\Debug\net6.0\ref\CeresNL.Core.dll
